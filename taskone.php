@@ -1,5 +1,6 @@
 <?php
 
+//Get range between to numbers including the start and end 
 function numberRange($start, $end)
 {
     $number_range = range($start, $end);
